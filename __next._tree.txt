@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/0b1qxyahpsq0i.css","style"]
+:HL["/_next/static/chunks/0q3h5g7stuami.css","style"]
 :HC["/",""]
 :HL["/media/portrait-hero.jpg","image",{"fetchPriority":"high"}]
 :HL["/media/fushan-feature.jpg","image"]
 :HL["/media/yagya-c-02.jpg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"er5pdwWWsdXN45J-b3zqK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"3pvXvrCgR97VCZ_MTmM6n"}
